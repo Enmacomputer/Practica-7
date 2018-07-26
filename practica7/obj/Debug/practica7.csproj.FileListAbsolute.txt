@@ -1,0 +1,7 @@
+c:\users\enman\source\repos\practica7\practica7\bin\Debug\practica7.exe.config
+c:\users\enman\source\repos\practica7\practica7\bin\Debug\practica7.exe
+c:\users\enman\source\repos\practica7\practica7\bin\Debug\practica7.pdb
+c:\users\enman\source\repos\practica7\practica7\obj\Debug\practica7.csprojAssemblyReference.cache
+c:\users\enman\source\repos\practica7\practica7\obj\Debug\practica7.csproj.CoreCompileInputs.cache
+c:\users\enman\source\repos\practica7\practica7\obj\Debug\practica7.exe
+c:\users\enman\source\repos\practica7\practica7\obj\Debug\practica7.pdb
